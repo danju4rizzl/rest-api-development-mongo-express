@@ -1,0 +1,116 @@
+[{
+  "_id": {
+    "$oid": "644d66a259f3ad6cca165242"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "pages": 218,
+  "genres": [
+    "Novel",
+    "Historical Fiction"
+  ],
+  "rating": 3.9,
+  "reviews": [
+    {
+      "name": "John Doe",
+      "body": "A classic tale of love and loss."
+    },
+    {
+      "name": "Jane Smith",
+      "body": "A must-read for any literature fan."
+    }
+  ],
+  "likes": 350
+},{
+  "_id": {
+    "$oid": "644d66a259f3ad6cca165243"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "pages": 432,
+  "genres": [
+    "Romance",
+    "Satire"
+  ],
+  "rating": 4.3,
+  "reviews": [
+    {
+      "name": "Emily Bronte",
+      "body": "A timeless love story."
+    },
+    {
+      "name": "Charlotte Bronte",
+      "body": "A witty and charming novel."
+    }
+  ],
+  "likes": 500
+},{
+  "_id": {
+    "$oid": "644d66a259f3ad6cca165244"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "pages": 328,
+  "genres": [
+    "Dystopian",
+    "Political Fiction"
+  ],
+  "rating": 4.2,
+  "reviews": [
+    {
+      "name": "Winston Smith",
+      "body": "A chilling look at a possible future."
+    },
+    {
+      "name": "Julia",
+      "body": "A thought-provoking read."
+    }
+  ],
+  "likes": 400
+},{
+  "_id": {
+    "$oid": "644d66a259f3ad6cca165245"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "pages": 277,
+  "genres": [
+    "Realistic Fiction",
+    "Coming-of-Age Fiction"
+  ],
+  "rating": 3.8,
+  "reviews": [
+    {
+      "name": "Holden Caulfield",
+      "body": "It's not bad, but it's not great either."
+    },
+    {
+      "name": "Phoebe Caulfield",
+      "body": "I don't know why everyone makes such a big deal about it."
+    }
+  ],
+  "likes": 300
+},{
+  "_id": {
+    "$oid": "644d66a259f3ad6cca165246"
+  },
+  "title": "Moby-Dick",
+  "author": "Herman Melville",
+  "pages": 585,
+  "genres": [
+    "Adventure Fiction",
+    "Epic"
+  ],
+  "rating": 4.1,
+  "reviews": [
+    {
+      "name": "Ishmael",
+      "body": "An epic tale of man versus nature."
+    },
+    {
+      "name": "Captain Ahab",
+      "body": "A thrilling adventure on the high seas."
+    }
+  ],
+  "likes": 250
+}]
